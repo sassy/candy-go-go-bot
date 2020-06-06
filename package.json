@@ -9,9 +9,9 @@
   "author": "sassy",
   "license": "MIT",
   "dependencies": {
-    "@line/bot-sdk": "^6.4.0",
+    "@line/bot-sdk": "^6.8.4",
     "dotenv": "^6.2.0",
-    "express": "^4.16.4",
+    "express": "^4.17.1",
     "request": "^2.88.2"
   }
 }
