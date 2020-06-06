@@ -12,6 +12,6 @@
     "@line/bot-sdk": "^6.4.0",
     "dotenv": "^6.2.0",
     "express": "^4.16.4",
-    "request": "^2.88.0"
+    "request": "^2.88.2"
   }
 }
